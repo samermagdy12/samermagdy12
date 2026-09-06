@@ -1,16 +1,115 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**samermagdy12/samermagdy12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# SAMER MAGDY
 
-Here are some ideas to get you started:
+### AI Engineer | Machine Learning | AI Automation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/samermagdy12">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=AI+%26+Machine+Learning;Deep+Learning+%26+Computer+Vision;Natural+Language+Processing+%26+LLMs;Python+%7C+TensorFlow+%7C+PyTorch;Scikit-learn+%7C+OpenCV+%7C+MediaPipe;AI+Agents+%26+Agentic+Workflows;RAG+%26+Intelligent+Automation;Data+Analysis+%26+AI+Applications" alt="Typing SVG" />
+</a>
+
+</div>
+
+<br/>
+
+---
+
+## About Me
+
+I'm an AI / Machine Learning Engineer focused on building practical, intelligent solutions that solve real problems — from computer vision systems that see and understand the world, to LLM-powered agents that automate and analyze data. My work spans deep learning, computer vision, NLP, and agentic AI, with an emphasis on turning research-grade models into usable, production-ready applications.
+
+I'm currently exploring **AI agents, Retrieval-Augmented Generation (RAG), and agentic automation workflows**, while continuing to build on a strong foundation in deep learning and computer vision.
+
+---
+
+## Tech Stack
+
+**Programming Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+**AI & Machine Learning**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-2C6E49?style=for-the-badge)
+
+**Computer Vision**
+
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge)
+![YOLO](https://img.shields.io/badge/YOLOv11-111111?style=for-the-badge)
+![TFLite](https://img.shields.io/badge/TensorFlow_Lite-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+**LLMs & AI Engineering**
+
+![LLM](https://img.shields.io/badge/LLM_Integration-412991?style=for-the-badge&logo=openai&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI_Agents-6E56CF?style=for-the-badge)
+
+**Data & Analysis**
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+
+**Tools & Development**
+
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## Featured Projects
+
+### 🚗 [Vehicle Detection and Tracking](https://github.com/samermagdy12/vechile_detection)
+A real-time vehicle detection and tracking application built around a **YOLOv11** object detection model, wrapped in a **Streamlit** web interface. It supports both video streams and static images, drawing bounding boxes and confidence scores for detected vehicles in a clean, dark-themed UI.
+`Python` `YOLOv11` `Streamlit`
+
+### 🦖 [Hand Gesture Dino Game Controller](https://github.com/samermagdy12/hand-gesture-dino-game)
+A hands-free controller for the Chrome Dino Game using real-time hand gesture recognition. **MediaPipe** handles hand landmark tracking, while a custom-trained **PyTorch** neural network (compared against SVC and XGBoost models) classifies gestures like "Jump" and "Walk," translating them directly into game commands.
+`Python` `PyTorch` `MediaPipe` `Scikit-learn` `XGBoost`
+
+### 🤟 [Arabic Sign Language Recognition](https://github.com/samermagdy12/sign-language)
+A deep learning system for real-time recognition of sign language gestures, built primarily on a **MobileNetV2** architecture trained with **TensorFlow/Keras**. Includes multiple model checkpoints from different training phases and development notebooks covering preprocessing, training, and evaluation.
+`Python` `TensorFlow` `Keras` `MobileNetV2`
+
+### 📋 [AXA Claims Processing](https://github.com/samermagdy12/axa-claims-processing)
+A full-stack capstone project for automating insurance claims processing, structured with dedicated **backend**, **frontend**, and **database** layers, plus a data pipeline and an automated test suite. Built to streamline how claims data is processed and managed end-to-end.
+`Full-Stack` `Backend/Frontend` `Database` `Testing`
+
+### 💬 [AI Data Analyst Chat Bot](https://github.com/samermagdy12/Data-analysis-chat-bot)
+A full-stack AI-powered data analysis chatbot that lets users upload CSV/Excel datasets and ask questions in natural language. A **FastAPI** backend orchestrates an LLM (via the Groq API) across 13+ built-in analysis tools — statistics, missing-value checks, correlation analysis, and chart generation — while a **React + TypeScript** frontend delivers the conversational interface.
+`Python` `FastAPI` `LLM Integration` `React` `TypeScript` `Pandas`
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=samermagdy12&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+<img src="https://streak-stats.demolab.com?user=samermagdy12&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samermagdy12&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+
+</div>
+
+---
+
+## Connect With Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/samermagdy12)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-handle)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+
+</div>
