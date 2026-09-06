@@ -1,8 +1,8 @@
 <div align="center">
 
-# SAMER MAGDY
+<img src="./hero.svg" alt="SAMER MAGDY - AI Engineer" style="max-width:100%;height:auto;border-radius:6px;box-shadow:0 10px 30px rgba(0,0,0,0.6);" />
 
-### AI Engineer | Machine Learning | AI Automation
+<br/>
 
 <a href="https://github.com/samermagdy12">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=AI+%26+Machine+Learning;Deep+Learning+%26+Computer+Vision;Natural+Language+Processing+%26+LLMs;Python+%7C+TensorFlow+%7C+PyTorch;Scikit-learn+%7C+OpenCV+%7C+MediaPipe;AI+Agents+%26+Agentic+Workflows;RAG+%26+Intelligent+Automation;Data+Analysis+%26+AI+Applications" alt="Typing SVG" />
@@ -82,34 +82,4 @@ A deep learning system for real-time recognition of sign language gestures, buil
 `Python` `TensorFlow` `Keras` `MobileNetV2`
 
 ### 📋 [AXA Claims Processing](https://github.com/samermagdy12/axa-claims-processing)
-A full-stack capstone project for automating insurance claims processing, structured with dedicated **backend**, **frontend**, and **database** layers, plus a data pipeline and an automated test suite. Built to streamline how claims data is processed and managed end-to-end.
-`Full-Stack` `Backend/Frontend` `Database` `Testing`
-
-### 💬 [AI Data Analyst Chat Bot](https://github.com/samermagdy12/Data-analysis-chat-bot)
-A full-stack AI-powered data analysis chatbot that lets users upload CSV/Excel datasets and ask questions in natural language. A **FastAPI** backend orchestrates an LLM (via the Groq API) across 13+ built-in analysis tools — statistics, missing-value checks, correlation analysis, and chart generation — while a **React + TypeScript** frontend delivers the conversational interface.
-`Python` `FastAPI` `LLM Integration` `React` `TypeScript` `Pandas`
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=samermagdy12&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-<img src="https://streak-stats.demolab.com?user=samermagdy12&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samermagdy12&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-
-</div>
-
----
-
-## Connect With Me
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/samermagdy12)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-handle)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-
-</div>
+A full-stack capstone project for automating insurance claims processing, structured with dedicated **backend**, **frontend**, and **database** layers, plus a data pipeline and an automated test s[...]
