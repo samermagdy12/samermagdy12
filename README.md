@@ -81,5 +81,5 @@ A hands-free controller for the Chrome Dino Game using real-time hand gesture re
 A deep learning system for real-time recognition of sign language gestures, built primarily on a **MobileNetV2** architecture trained with **TensorFlow/Keras**. Includes multiple model checkpoints from different training phases and development notebooks covering preprocessing, training, and evaluation.
 `Python` `TensorFlow` `Keras` `MobileNetV2`
 
-### 📋 [AXA Claims Processing](https://github.com/samermagdy12/Data-analysis-chat-bot)
+### 📋 [Data analysis chat bot](https://github.com/samermagdy12/Data-analysis-chat-bot)
 An AI-powered data analysis chatbot that allows users to interact with datasets using natural language. Upload CSV or Excel files, ask questions about your data, and get instant insights powered by Groq's LLM.
